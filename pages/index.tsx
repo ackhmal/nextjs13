@@ -80,7 +80,7 @@ export default function Home() {
               programming and teaching.
             </p>
           </div>
-          <div className='md:flex gap-4 items-center'>
+          <div className='md:flex gap-4 mx-auto'>
             <div className='text-center shadow-xl p-10 rounded-xl my-10 md:max-w-sm lg:max-w-md dark:bg-white'>
               <Image className='mx-auto' alt='' src={design} width={100} height={100} />
               <h3 className='text-lg font-bold pt-8 pb-2'>
